@@ -1,2 +1,2 @@
-# ProjectList.github.io
+# ProjectList
 List all project
